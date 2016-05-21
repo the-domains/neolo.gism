@@ -1,5 +1,7 @@
-favicon: null
-name: neolo.gism
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,23 +20,21 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.3871099501848221
+  saturation: 1
   brandStrength: 0.3212162971030921
-  rhythmicContrast: 0.5933850188739598
+  lightness: 1
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  lightness: 0.6412844441365451
+  rhythmicContrast: 1
 typography_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.5817895091604441
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.7150537
+favicon: null
+name: neolo.gism
