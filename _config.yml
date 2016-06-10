@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: neolo.gism
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 1
   brandStrength: 0.3212162971030921
-  lightness: 1
+  rhythmicContrast: 1
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  rhythmicContrast: 1
-typography_spectrum: 0
+  lightness: 1
+typography_spectrum: 0.2035446
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.7150537
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-name: neolo.gism
+layout_spectrum: 0.7051557
